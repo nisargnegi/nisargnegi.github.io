@@ -468,11 +468,12 @@ h1, h2, h3, h4, h5, h6, figure {
   text-transform: uppercase;
   letter-spacing: 5px;
   font-weight: bold;
-  background: #9BABB8;
+  background: #E54624;
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
   -ms-border-radius: 4px;
   border-radius: 4px;
+  color: #FADA39;
 }
 @media screen and (max-width: 768px) {
   .timeline .timeline-heading > div h3 {
